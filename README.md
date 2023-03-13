@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/will-pepper/">Data Analyst</a>, </h1>
 
-<!--
-**WillPepperr/WillPepperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Google Data Analyst Capstone)</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Project 2</b>
+
+- <b>Projecct 3</b>
+
+- <b>Project 4</b>
+
+- <b>Project 5</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/willpepperr/
+[linkedin]: https://www.linkedin.com/in/will-pepper/
