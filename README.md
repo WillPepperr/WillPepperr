@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Google Data Analyst Capstone)</b>
+- <b>Google Data Analyst Capstone</b>
 
 - <b>Project 2</b>
 
