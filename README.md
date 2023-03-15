@@ -1,16 +1,10 @@
-<h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/will-pepper/">Data Analyst</a>, </h1>
+<h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/will-pepper/">Data Analyst</a> </h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Freelance Data Analyst Projects:</h2>
 
 - <b>Google Data Analyst Capstone</b>
 
 - <b>Project 2</b>
-
-- <b>Projecct 3</b>
-
-- <b>Project 4</b>
-
-- <b>Project 5</b>
 
 
 <h2> 🤳 Connect with me:</h2>
