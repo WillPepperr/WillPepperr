@@ -4,7 +4,7 @@
 
 - <b>Google Data Analyst Capstone</b>
 
-- <b>Plane Crash Dashboard </b>
+- <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>Plane Crash Dashboard</a>
 
 
 <h2> 🤳 Connect with me:</h2>
