@@ -1,6 +1,6 @@
 <h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/will-pepper/">Data Analyst</a> </h1>
 
-<h2>👨‍💻 Freelance Data Analyst Projects:</h2>
+<h2>📁 Data Analyst Portfolio:</h2>
 
 - <b><a href="https://github.com/WillPepperr/Google_Data_Analyst_CapstoneGoogle Data Analyst Capstone">Google Data Analyst Capstone</a></b>
 
