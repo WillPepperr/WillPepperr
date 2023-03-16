@@ -4,7 +4,7 @@
 
 - <b><a href="https://github.com/WillPepperr/Google_Data_Analyst_CapstoneGoogle Data Analyst Capstone">Google Data Analyst Capstone</a></b>
 
-- <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>Plane Crash Dashboard</a>
+- <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>Plane Crash Dashboard(Tableau)</a>
 
 
 <h2> 🤳 Connect with me:</h2>
