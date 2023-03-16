@@ -4,7 +4,7 @@
 
 - <b>Google Data Analyst Capstone</b>
 
-- <b>Project 2</b>
+- <b>Plane Crash Dashboard </b>
 
 
 <h2> 🤳 Connect with me:</h2>
