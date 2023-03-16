@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Freelance Data Analyst Projects:</h2>
 
-- <b>Google Data Analyst Capstone</b>
+- <b><a href=Google Data Analyst Capstone</b>
 
 - <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>Plane Crash Dashboard</a>
 
