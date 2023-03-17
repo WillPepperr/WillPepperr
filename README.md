@@ -6,7 +6,7 @@
 
 - <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>Plane Crash Dashboard(Tableau)</a>
 
-
+- <b><a href="https://public.tableau.com/app/profile/champion4000/viz/PlaneCrashDashboard_16789792231550/Dashboard1?publish=yes"/>NBA Draft SQL Analysis</a>
 <h2> 🤳 Connect with me:</h2>
 
 
