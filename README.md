@@ -1,4 +1,4 @@
-<h1>Hi, I'm Will! <br/><a href="https://www.linkedin.com/in/will-pepper/">Data Analyst</a> </h1>
+<h1>Hi, I'm Will! <br/>Data Analyst</a> </h1>
 
 <h2>📁 My Portfolio:</h2>
 
