@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Will! 👋<br/>Data Analyst 📊</h1>
 
 
-## 🧠 My Portfolio
+## 📁 My Portfolio:
 
 ### 📈 Data Analysis & Reporting  
 - 🔍 [**Ecommerce Sales Analysis**](https://github.com/WillPepperr/eccomerce-sales-analysis) — Supporting Marketing Decision Making  
