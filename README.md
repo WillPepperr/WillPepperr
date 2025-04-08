@@ -12,6 +12,4 @@
 - 🏀 [**NBA Draft SQL Analysis**](https://github.com/WillPepperr/NBA_SQL) — Exploring Draft Data with SQL  
 
 ### 💻 Programming & Software Development  
-- 🃏 [**Blackjack Simulation in Python**](https://github.com/WillPepperr/BlackJack_in_Python) — Game Simulation Logic & Probability  
-
-
+- 🃏 [**Blackjack Simulation in Python**](https://github.com/WillPepperr/python-blackjack) — Game Simulation Logic & Probability  
