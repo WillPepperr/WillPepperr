@@ -16,7 +16,7 @@ I’m a data analyst with a background in economics, currently pursuing an MS in
 - Includes a database of over 17,000 courses, a VBA-powered entry form, and dashboards built with PivotTables and PivotCharts.  
 - Users can quickly add results, refresh the data, and track performance over time with interactive visuals.
 
-🧠  [**Realistic Blackjack Simulation**](https://github.com/WillPepperr/reinforcement-deep-neural-network) — Deep Reinforcement Learning with PyTorch
+🧠  [**AI Blackjack**](https://github.com/WillPepperr/reinforcement-deep-neural-network) — Deep Reinforcement Learning with PyTorch
 
 - Builds an AI agent that learns optimal Blackjack strategy using deep reinforcement learning and Monte Carlo–generated training data.
 - Includes a realistic simulated environment, custom card‐dataset generator for consistent model inputs, and benchmarking tools to evaluate performance across trained models.
