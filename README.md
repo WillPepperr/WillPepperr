@@ -2,7 +2,7 @@
 
 I’m a data analyst with a background in economics, currently pursuing an MS in Management Information Systems at the University of Illinois Springfield. I focus on turning complex data into clear, actionable insights that support strategic decisions, using analysis and visualization to uncover trends. I’m also passionate about programming—exploring data science, machine learning, game development, and building practical tools. You can see some of my completed projects below!
 
-## Flagship Data Analytics Reporting Project
+## Data Analytics Reporting Projects
 📊 [**Ecommerce Sales Analysis**](https://github.com/WillPepperr/eccomerce-sales-analysis) — Supporting Marketing Decision Making (Excel, PowerBI, Python)
 
 - Analyzes sales performance to provide the marketing team with actionable insights for refining campaigns and improving ROI.  
