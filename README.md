@@ -3,6 +3,12 @@
 I’m a data analyst with a background in economics, currently pursuing an MS in Management Information Systems at the University of Illinois Springfield. I focus on turning complex data into clear, actionable insights that support strategic decisions, using analysis and visualization to uncover trends. I’m also passionate about programming—exploring data science, machine learning, game development, and building practical tools. You can see some of my completed projects below!
 
 ## Data Analytics Reporting Projects
+📦 [**Retail Invoice Automation Analysis**](https://github.com/WillPepperr/retail-invoice-automation-analysis) — Quantifying Operational Labor Savings (SQL, Snowflake, Power BI)
+
+- Evaluates the financial and operational impact of automating invoice receiving across 290 grocery retail locations, identifying $5.7M in achievable annual labor savings.
+- Analyzes invoice-level labor costs (over 4M entries) by vendor, category, and region to determine high-impact adoption priorities and rollout thresholds.
+- Supports executive decision-making with scenario modeling, regional prioritization, and implementation strategies to assess ROI feasibility and risk.
+
 📊 [**Ecommerce Sales Analysis**](https://github.com/WillPepperr/eccomerce-sales-analysis) — Supporting Marketing Decision Making (Excel, PowerBI, Python)
 
 - Analyzes sales performance to provide the marketing team with actionable insights for refining campaigns and improving ROI.  
