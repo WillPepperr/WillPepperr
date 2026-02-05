@@ -24,7 +24,7 @@ I’m a data analyst with a background in economics, currently pursuing an MS in
 
 🧠  [**AI Blackjack**](https://github.com/WillPepperr/reinforcement-deep-neural-network) — Deep Reinforcement Learning with PyTorch
 
-- Builds an AI agent that learns optimal Blackjack strategy using deep reinforcement learning and Monte Carlo–generated training data.
+- Builds a pytorch neural network that learns optimal Blackjack strategy using deep reinforcement learning and Monte Carlo–generated training data.
 - Includes a realistic simulated environment, custom card‐dataset generator for consistent model inputs, and benchmarking tools to evaluate performance across trained models.
 - Supports GPU-accelerated training and multithreaded model generation. Best achieved result: ~1% loss versus the ~0.5% theoretical optimum for the ruleset.
 
